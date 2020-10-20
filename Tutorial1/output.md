@@ -8,8 +8,7 @@ something new. Let’s get started with Tangram Pro™!
 
 -   Join and create a Team
 
--   Visualize a simple system by creating Components and defining
-    > Interfaces
+-   Visualize a simple system by creating Components and defining Interfaces
 
 **What is Tangram Pro™?**
 -------------------------
